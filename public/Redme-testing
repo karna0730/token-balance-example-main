@@ -1,0 +1,8 @@
+Execution Commands
+========================
+npx tailwindcss init -p
+yarn add @web3-react/injected-connector
+yarn add web3
+
+$env:NODE_OPTIONS = "--openssl-legacy-provider"
+yarn dev
